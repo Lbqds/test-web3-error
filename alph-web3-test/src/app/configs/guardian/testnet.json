@@ -1,0 +1,10 @@
+{
+  "governanceChainId": 0,
+  "governanceEmitterAddress": "0000000000000000000000000000000000000000000000000000000000000004",
+  "initSigners": [
+    "0x2F10c48859bf00F743971aCb287b8876bC9ef7F3"
+  ],
+  "guardianUrls": [
+    "https://guardian-0.testnet.bridge.alephium.org"
+  ]
+}

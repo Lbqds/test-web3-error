@@ -1,0 +1,15 @@
+{
+  "chainId": 2,
+  "wrappedNative": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+  "contracts": {
+    "governance": "0x91025D8a7E70cF478eC9F759C492cD23D298045C",
+    "tokenBridge": "0x207Bd15F7150F7E205aD95FBbC2720FA397c388B",
+    "wrappedNative": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9"
+  },
+  "nodeUrl": "https://sepolia.infura.io/v3/",
+  "coreEmitterAddress": "00000000000000000000000091025D8a7E70cF478eC9F759C492cD23D298045C",
+  "tokenBridgeEmitterAddress": "000000000000000000000000207Bd15F7150F7E205aD95FBbC2720FA397c388B",
+  "bridgeTokens": [
+    "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9"
+  ]
+}
