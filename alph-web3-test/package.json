@@ -6,15 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "cd node_modules/@alephium/wormhole-sdk && yarn"
+    "lint": "next lint"
   },
   "dependencies": {
     "@alephium/web3": "^1.8.5",
     "@alephium/web3-react": "^1.8.5",
     "@alephium/web3-test": "^1.8.5",
     "@alephium/web3-wallet": "^1.8.5",
-    "@alephium/wormhole-sdk": "^0.3.2",
+    "@alephium/wormhole-sdk": "^0.3.5",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
     "next": "15.0.3"
